@@ -1,0 +1,29 @@
+body{
+    
+}
+footer{
+    position: absolute;
+    bottom:0px;
+}
+.test{
+    position: relative;
+    height: 250px;
+    background-image: linear-gradient(to bottom, rgba(1, 128, 1, 0.479),$primary 90%), $urlfond;
+    background-size: cover;
+}       
+.test2{
+    position:absolute;
+    left: 40px;
+    top: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: $urlphoto;
+    background-size: cover;
+}
+
+.titre{
+    position:absolute;
+    left: 250px;
+    top: 40px;
+    color: #ffffff;
+}
