@@ -3,31 +3,22 @@ footer{
     position: absolute;
     bottom:0px;
 }
-
-.fond{
+.bg-entete{
     position: relative;
     height: 220px;
     background-image: linear-gradient(to bottom, rgba(1, 128, 1, 0.479),$primary 90%), $urlfond;
     background-size: cover;
 }
-
-.entete2{
-   
-}
-.entete{
+.entete-image{
     
     padding-top: 20px;
     
     text-align: center;
 }       
-
-
 .entete-nom{
     width: 250px;
     vertical-align: middle;
     text-align: center;
-  
-    
     color: #ffffff;
     display: inline-block;
 }
